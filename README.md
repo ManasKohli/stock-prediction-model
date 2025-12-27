@@ -71,7 +71,7 @@ jupyter notebook
    - Make predictions on future stock prices
 
 3. The model will:
-   - Split data into training and testing sets
+   - Split data into training (70%), validation (15%), and testing (15%) sets
    - Normalize the data for better model convergence
    - Create sequences of historical data as input features
    - Train the LSTM network to learn patterns
