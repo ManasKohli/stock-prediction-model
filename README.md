@@ -80,11 +80,11 @@ jupyter notebook
 ## 📁 Project Structure
 
 ```
-stock-prediction-model/
+nvda-stock-prediction-model/
 │
-├── main.ipynb          # Main Jupyter notebook with model implementation
-├── README.md           # Project documentation
-└── requirements.txt    # Python dependencies (optional)
+├── main.ipynb                      # Main Jupyter notebook with model implementation
+├── README.md                       # Project documentation
+├── NVidia_stock_history.csv        # Nvidia historical stock data     
 ```
 
 ## 🧠 Model Architecture
@@ -141,8 +141,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Manas Kohli**
+- GitHub: [@yourusername](https://github.com/ManasKohli)
 
 ## 🙏 Acknowledgments
 
